@@ -18,6 +18,7 @@ servers:
 proxy:
   ssl: true
   host: app.loverails.com, www.loverails.com
+  app_port: 3000
 
 # Credentials for your image host.
 registry:
